@@ -11,7 +11,7 @@ public class Cots_bintang {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Pilih operasi yang diinginkan:");
-        System.out.println("1. Penambahan (+)");
+        System.out.println("1. Penambahan (+______)");
         System.out.println("2. Pengurangan (-)");
         System.out.println("3. Perkalian (*)");
         System.out.println("4. Pembagian (/)");
